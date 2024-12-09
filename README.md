@@ -1,2 +1,3 @@
 # JavaLoopLab8
-creating a program to calculate the factorial of a given non-negative integer. The factorial of a number n. n! and is the product of all positive integers up to n
+was submitted again by mistake again by mistage the the link below is my orginal posting
+![original posting](https://github.com/hjoseph777/lab8loop/tree/main)
